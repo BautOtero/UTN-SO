@@ -45,8 +45,6 @@ int main(void)
 
 	sprintf(str, "%d", conexion);
 
-	char c = conexion;
-
 	log_info(logger, str);
 
 	//enviar mensaje
@@ -66,19 +64,15 @@ int main(void)
 //TODO
 t_log* iniciar_logger(void)
 {
-	return log_create("/home/utnso/Game-watch-client/tp0.log", "Game-watch-client", true, LOG_LEVEL_INFO);
+	return log_create("tp0.log", "Game-watch-client", true, LOG_LEVEL_INFO);
 }
 
 //TODO
 t_config* leer_config(void)
 {
-	t_config* tp0Config = config_create("/home/utnso/Game-watch-client/tp0.config");
+	t_config* config_file = config_create("tp0.config");
 
-	config_set_value(tp0Config, "IP", "127.0.0.1");
-
-	config_set_value(tp0Config, "PUERTO", "4444");
-
-	return tp0Config;
+	return config_file;
 }
 
 //TODO

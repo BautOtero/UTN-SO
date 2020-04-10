@@ -76,3 +76,79 @@
 [INFO] 20:16:31:760 Game-watch-client/(8615:8615): 127.0.0.1
 [INFO] 20:16:32:304 Game-watch-client/(8615:8615): 4444
 [INFO] 20:16:34:1 Game-watch-client/(8615:8615): 4
+[INFO] 14:45:57:323 Game-watch-client/(31593:31593): soy un log
+[INFO] 14:46:25:238 Game-watch-client/(31593:31593): 127.0.0.1
+[INFO] 14:46:27:663 Game-watch-client/(31593:31593): 4444
+[INFO] 14:46:32:761 Game-watch-client/(31593:31593): 4
+[INFO] 14:55:11:16 Game-watch-client/(31865:31865): soy un log
+[INFO] 14:56:23:678 Game-watch-client/(31908:31908): soy un log
+[INFO] 14:58:02:640 Game-watch-client/(31998:31998): soy un log
+[INFO] 14:58:02:646 Game-watch-client/(31998:31998): 0.tcp.ngrok.io
+[INFO] 14:58:02:646 Game-watch-client/(31998:31998): 11809
+[INFO] 14:58:02:851 Game-watch-client/(31998:31998): 4
+[INFO] 14:58:22:668 Game-watch-client/(32016:32016): soy un log
+[INFO] 14:58:22:669 Game-watch-client/(32016:32016): 0.tcp.ngrok.io
+[INFO] 14:58:22:669 Game-watch-client/(32016:32016): 11809
+[INFO] 14:58:22:864 Game-watch-client/(32016:32016): 4
+[INFO] 15:02:28:920 Game-watch-client/(32238:32238): soy un log
+[INFO] 15:02:28:921 Game-watch-client/(32238:32238): 127.0.0.1
+[INFO] 15:02:28:921 Game-watch-client/(32238:32238): 4444
+[INFO] 15:02:28:921 Game-watch-client/(32238:32238): 4
+[INFO] 15:03:05:528 Game-watch-client/(32280:32280): soy un log
+[INFO] 15:03:08:433 Game-watch-client/(32280:32280): 127.0.0.1
+[INFO] 15:03:09:177 Game-watch-client/(32280:32280): 4444
+[INFO] 15:03:19:580 Game-watch-client/(32280:32280): 4
+[INFO] 15:03:23:152 Game-watch-client/(32016:32016): 
+[INFO] 15:04:46:435 Game-watch-client/(32280:32280): 
+[INFO] 15:04:46:435 Game-watch-client/(32238:32238): 
+[INFO] 15:04:46:435 Game-watch-client/(31593:31593): 
+[INFO] 15:05:03:38 Game-watch-client/(12421:12421): soy un log
+[INFO] 15:05:03:41 Game-watch-client/(12421:12421): 127.0.0.1
+[INFO] 15:05:03:41 Game-watch-client/(12421:12421): 4444
+[INFO] 15:05:03:41 Game-watch-client/(12421:12421): 4
+[INFO] 15:05:57:415 Game-watch-client/(9592:9592): soy un log
+[INFO] 15:05:57:415 Game-watch-client/(9592:9592): 127.0.0.1
+[INFO] 15:05:57:415 Game-watch-client/(9592:9592): 4444
+[INFO] 15:05:57:416 Game-watch-client/(9592:9592): 4
+[INFO] 15:06:55:954 Game-watch-client/(9660:9660): soy un log
+[INFO] 15:06:59:81 Game-watch-client/(9660:9660): 127.0.0.1
+[INFO] 15:06:59:553 Game-watch-client/(9660:9660): 4444
+[INFO] 15:07:03:57 Game-watch-client/(9660:9660): 4
+[INFO] 15:07:13:349 Game-watch-client/(31556:31556): soy un log
+[INFO] 15:07:15:862 Game-watch-client/(31556:31556): 127.0.0.1
+[INFO] 15:07:15:862 Game-watch-client/(31556:31556): 4444
+[INFO] 15:07:15:862 Game-watch-client/(31556:31556): 4
+[INFO] 15:07:39:984 Game-watch-client/(31556:31556): 
+[INFO] 15:08:58:836 Game-watch-client/(14354:14354): soy un log
+[INFO] 15:09:00:339 Game-watch-client/(14354:14354): 127.0.0.1
+[INFO] 15:09:00:531 Game-watch-client/(14354:14354): 4444
+[INFO] 15:09:12:799 Game-watch-client/(14354:14354): 4
+[INFO] 15:09:25:523 Game-watch-client/(14354:14354): 
+[INFO] 15:10:04:832 Game-watch-client/(3155:3155): soy un log
+[INFO] 15:10:04:833 Game-watch-client/(3155:3155): 127.0.0.1
+[INFO] 15:10:04:833 Game-watch-client/(3155:3155): 4444
+[INFO] 15:10:04:834 Game-watch-client/(3155:3155): 4
+[INFO] 15:11:33:70 Game-watch-client/(3193:3193): soy un log
+[INFO] 15:11:35:607 Game-watch-client/(3193:3193): 127.0.0.1
+[INFO] 15:11:36:575 Game-watch-client/(3193:3193): 4444
+[INFO] 15:11:42:233 Game-watch-client/(3193:3193): 4
+[INFO] 15:13:57:52 Game-watch-client/(3193:3193): 
+[INFO] 15:13:57:52 Game-watch-client/(3155:3155): 
+[INFO] 15:18:18:508 Game-watch-client/(3554:3554): soy un log
+[INFO] 15:18:18:509 Game-watch-client/(3554:3554): 127.0.0.1
+[INFO] 15:18:18:509 Game-watch-client/(3554:3554): 4444
+[INFO] 15:18:18:509 Game-watch-client/(3554:3554): 4
+[INFO] 15:18:37:135 Game-watch-client/(3581:3581): soy un log
+[INFO] 15:18:46:474 Game-watch-client/(3581:3581): 127.0.0.1
+[INFO] 15:18:46:885 Game-watch-client/(3581:3581): 4444
+[INFO] 15:19:05:107 Game-watch-client/(3581:3581): 4
+[INFO] 15:20:47:296 Game-watch-client/(3687:3687): soy un log
+[INFO] 15:20:47:299 Game-watch-client/(3687:3687): 127.0.0.1
+[INFO] 15:20:47:299 Game-watch-client/(3687:3687): 4444
+[INFO] 15:20:47:299 Game-watch-client/(3687:3687): 4
+[INFO] 15:20:47:302 Game-watch-client/(3687:3687): TuVieja
+[INFO] 15:21:45:982 Game-watch-client/(3720:3720): soy un log
+[INFO] 15:21:45:987 Game-watch-client/(3720:3720): 0.tcp.ngrok.io
+[INFO] 15:21:45:987 Game-watch-client/(3720:3720): 17473
+[INFO] 15:21:46:210 Game-watch-client/(3720:3720): 4
+[INFO] 15:21:46:609 Game-watch-client/(3720:3720): TuVieja
